@@ -1,5 +1,5 @@
 # Data structures
-Some data structures written exclusively in python.
+All data structures written exclusively in python.
 
  
 
